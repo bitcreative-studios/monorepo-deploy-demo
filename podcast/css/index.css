@@ -1,0 +1,56 @@
+/* Variables */
+/* Main page styles */
+@media (max-width: 991.98px) {
+  .block-1 .slider-1 .slick-slide .slide-container > div {
+    padding: 0 1.5%; } }
+
+.block-2 .slider-2 .img-block button {
+  position: absolute;
+  top: 15px;
+  right: 15px; }
+
+.block-2 .slider-2 .img-block a {
+  position: absolute;
+  bottom: 15px;
+  right: 15px; }
+
+.block-2 .slider-2 .podcast-parameter {
+  border: 1px solid rgba(0, 0, 0, 0.05); }
+  .block-2 .slider-2 .podcast-parameter svg {
+    fill: rgba(0, 0, 0, 0.5); }
+
+.block-2 .slider-2 .swiper-scrollbar {
+  opacity: 1 !important;
+  position: relative !important;
+  left: auto !important;
+  bottom: auto !important;
+  width: 100%;
+  border-radius: 5px !important;
+  background: rgba(0, 0, 0, 0.05) !important; }
+  .block-2 .slider-2 .swiper-scrollbar .swiper-scrollbar-drag {
+    background: rgba(0, 0, 0, 0.05) !important; }
+
+.block-3 img {
+  width: 300px;
+  height: 300px; }
+
+.block-3 .podcast-parameter {
+  border: 1px solid rgba(0, 0, 0, 0.05); }
+  .block-3 .podcast-parameter svg {
+    fill: rgba(0, 0, 0, 0.5); }
+
+.block-3 .line {
+  background: rgba(0, 0, 0, 0.05);
+  height: 1.5px;
+  border-radius: 2px; }
+
+.block-3 .border-block {
+  border: 1.5px solid rgba(0, 0, 0, 0.05);
+  border-radius: 10px; }
+
+@media (max-width: 575.98px) {
+  .block-3 img {
+    height: auto;
+    width: auto;
+    max-width: 100%;
+    max-height: 100%; } }
